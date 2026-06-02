@@ -2,17 +2,7 @@
 
 <div align="center">
 
-
-
-![REWARA Banner](https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=200&section=header&text=REWARA%20(RWA)
-
-&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Reward%20Together.%20Grow%20Together.&descAlignY=55&descAlign=50)
-
-[
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Global+Reward+%26+Loyalty+Token+🌍;Built+on+Base+L2+⚡;Powered+by+Bankr.bot+🚀;Reward+Together.+Grow+Together.+🌟)
-
-](https://git.io/typing-svg)
+### ⚡ Global Reward & Loyalty Token | Built on Base L2 🔵
 
 
 
@@ -35,10 +25,11 @@
 
 
 
+> **Reward Together. Grow Together.**
+
 </div>
 
 ---
-
 ## 🌐 What is REWARA?
 
 **REWARA (RWA)** is a global reward and loyalty token built on **Base** (Ethereum L2), designed to connect communities through a transparent and decentralized reward system.
