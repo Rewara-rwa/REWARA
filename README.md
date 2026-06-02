@@ -2,24 +2,6 @@
 
 > **Reward Together. Grow Together.**
 
-[
-
-![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)
-
-](https://opensource.org/licenses/MIT) [
-
-![Network: Base](https://img.shields.io/badge/Network-Base%20L2-0052FF?logo=coinbase)
-
-](https://base.org) [
-
-![Standard: ERC-20](https://img.shields.io/badge/Standard-ERC--20-7B2FBE)
-
-](https://eips.ethereum.org/EIPS/eip-20) [
-
-![Launchpad: Bankr](https://img.shields.io/badge/Launchpad-Bankr.bot-A855F7)
-
-](https://bankr.bot)
-
 ---
 
 ## 🌐 What is REWARA?
@@ -41,46 +23,6 @@
 
 ---
 
-## 📊 Tokenomics
-
-| Allocation | % | Amount (RWA) | Vesting |
-|---|---|---|---|
-| 🌍 Community Rewards | 50% | 500,000,000 | Ongoing |
-| 🏦 Treasury | 20% | 200,000,000 | 12-month lock |
-| 👥 Team & Advisors | 15% | 150,000,000 | 6-month cliff |
-| 🚀 Ecosystem | 10% | 100,000,000 | 3-month cliff |
-| 💧 Liquidity (DEX) | 5% | 50,000,000 | Unlocked at launch |
-
-**Total Supply: 1,000,000,000 RWA** *(Fixed, No Mint)*
-
----
-
-## 🗺️ Roadmap
-
-### Phase 1 — Foundation 🌱 *(Q2 2026)*
-- [x] Project conceptualization & branding
-- [x] Smart contract development
-- [ ] Smart contract audit
-- [ ] Token deployment on Base via Bankr.bot
-- [ ] Initial liquidity on Uniswap v4
-
-### Phase 2 — Community Launch 🚀 *(Q3 2026)*
-- [ ] Community airdrop campaign
-- [ ] Ambassador program launch
-- [ ] CEX listing applications
-
-### Phase 3 — Ecosystem Growth 🌐 *(Q4 2026)*
-- [ ] Reward dashboard (dApp)
-- [ ] Merchant/partner integrations
-- [ ] DAO governance proposal
-
-### Phase 4 — Scale 🏆 *(2027)*
-- [ ] Full DAO governance launch
-- [ ] Mobile app
-- [ ] Global partnership expansion
-
----
-
 ## 🔧 Token Details
 
 | Parameter | Value |
@@ -92,6 +34,15 @@
 | **Contract** | *TBA — Post Launch* |
 | **Launchpad** | [Bankr.bot](https://bankr.bot) |
 | **DEX** | Uniswap v4 on Base |
+
+---
+
+## 🛡️ Security
+
+- ✅ Built with **OpenZeppelin** standards
+- ✅ Fixed supply — no mint function
+- ✅ Ownership renounced after launch
+- ⏳ Third-party audit in progress
 
 ---
 
