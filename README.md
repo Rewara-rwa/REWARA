@@ -51,7 +51,6 @@
 | Platform | Link |
 |---|---|
 | 🐦 Twitter/X | [@RewaraToken](https://twitter.com/RewaraToken) |
-| 💬 Telegram | [t.me/RewaraOfficial](https://t.me/RewaraOfficial) |
 | 🌐 Website | rewara.xyz *(coming soon)* |
 
 ---
