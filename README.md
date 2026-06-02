@@ -88,7 +88,7 @@
 | **Name** | REWARA |
 | **Symbol** | RWA |
 | **Network** | Base (Ethereum L2) |
-| **Total Supply** | 1,000,000,000 RWA |
+| **Total Supply** | 100,000,000,000 RWA |
 | **Contract** | *TBA — Post Launch* |
 | **Launchpad** | [Bankr.bot](https://bankr.bot) |
 | **DEX** | Uniswap v4 on Base |
